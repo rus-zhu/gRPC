@@ -1,0 +1,7 @@
+.idea/
+GRPC_Server/.idea
+GRPC_Client/.idea
+GRPC_Server/target
+GRPC_Client/target
+GRPC_Server/GRPC_Server.iml
+GRPC_Client/GRPC_Client.iml
